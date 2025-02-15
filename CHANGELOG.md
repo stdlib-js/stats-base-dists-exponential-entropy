@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-15)
+
+<section class="features">
+
+### Features
+
+-   [`44c266e`](https://github.com/stdlib-js/stdlib/commit/44c266e652cd19adda9b92db83843d5dcb3aa3e8) - add C implementation for `stats/base/dists/exponential/entropy` [(#4177)](https://github.com/stdlib-js/stdlib/pull/4177)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3581](https://github.com/stdlib-js/stdlib/issues/3581)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,8 @@
 
 <details>
 
+-   [`44c266e`](https://github.com/stdlib-js/stdlib/commit/44c266e652cd19adda9b92db83843d5dcb3aa3e8) - **feat:** add C implementation for `stats/base/dists/exponential/entropy` [(#4177)](https://github.com/stdlib-js/stdlib/pull/4177) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`177f0a0`](https://github.com/stdlib-js/stdlib/commit/177f0a00909c097be05d47107a3e6ab05b865409) - **chore:** consistently use differential entropy for continuous distributions _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +48,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
