@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-25)
+## Unreleased (2026-08-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`103d6cc`](https://github.com/stdlib-js/stdlib/commit/103d6ccfaa4b86c32b6adc79444a096661e2e616) - **test:** migrate `stats/base/dists/exponential/entropy` to ULP-based assertions [(#14774)](https://github.com/stdlib-js/stdlib/pull/14774) _(by Athan Reines)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`5cc3f4f`](https://github.com/stdlib-js/stdlib/commit/5cc3f4f8aad580d87fe6ae2ed41271e4791cca70) - **bench:** refactor to use string interpolation in `stats/base/dists/exponential` [(#10346)](https://github.com/stdlib-js/stdlib/pull/10346) _(by Vishal Gaikwad)_
 -   [`88c63b2`](https://github.com/stdlib-js/stdlib/commit/88c63b2692cdefa8caa7b42906478865bedd0521) - **bench:** update random value generation for `stats/base/dists/exponential` [(#10330)](https://github.com/stdlib-js/stdlib/pull/10330) _(by Siddhartha Mondal, Philipp Burckhardt)_
